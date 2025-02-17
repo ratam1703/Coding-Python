@@ -1,0 +1,11 @@
+angka_pertama = input("Masukkan angka pertama: ")
+angka_kedua = input("Masukkan angka kedua: ")
+penjumlahan = int(angka_pertama) + int(angka_kedua)
+pengurangan = int(angka_pertama) - int(angka_kedua)
+perkalian = int(angka_pertama) * int(angka_kedua)
+pembagian = int(angka_pertama) / int(angka_kedua)
+
+print("hasil penjumlahan", penjumlahan,)
+print("hasil pengurangan", pengurangan,)
+print("hasil perkalian", perkalian,)
+print("hasil pembagian", pembagian,)
